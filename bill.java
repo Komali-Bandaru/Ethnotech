@@ -1,3 +1,4 @@
+
 import java.util.Scanner;
 public class bill {
 	public static void main(String[] args) {
@@ -15,4 +16,3 @@ public class bill {
 		s.close();
 	}
 }
-
