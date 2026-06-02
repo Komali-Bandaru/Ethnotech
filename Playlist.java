@@ -19,7 +19,7 @@ class Playlist
 		System.out.println("Playlist:"+playlist);
 		System.out.println("\n Song Removed:"+playlist.remove(1));
 		System.out.println("\nSong retrived from index 1:"+playlist.get(1));
-		System.out.println("\nIs the list contains the song\"Perfect\""+playlist.contains("Perfect"));
+		System.out.println("\nIs the list contains the song\"Perfect\":"+playlist.contains("Perfect"));
 		playlist.add("Shape of You");
 		System.out.println("\n ======= Final Playlist========");
 		System.out.println("Playlist:"+playlist);
